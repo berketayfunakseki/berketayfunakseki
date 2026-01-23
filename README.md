@@ -1,16 +1,22 @@
-## Hi there 👋
+# Berke Tayfun Akseki
 
-<!--
-**berketayfunakseki/berketayfunakseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & Management student at **LUISS (Rome)** — focused on **Data Analytics, Machine Learning, and building real products**  
+(**ML pipelines → APIs → dashboards**).
 
-Here are some ideas to get you started:
+## Featured Projects
+- **Regulatory RAG Assistant** — PDF/TXT ingestion + FAISS semantic search + FastAPI + Streamlit  
+  👉 `regulatory-rag-assistant`
+- **Churn ML API Dashboard** — training + evaluation + FastAPI + Streamlit dashboard  
+  👉 `churn-ml-api-dashboard`
+- **OralB Geo-Analytics (Group Project)** — KNIME + Power BI campaign optimization  
+  👉 `oralb-geoanalytics-2026`
+- **Django CRUD + Auth App** — authentication + CRUD + SQLite  
+  👉 `django-crud-auth-app`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Python** • FastAPI • Streamlit • Django • Pandas • Scikit-learn • SQL • Power BI • KNIME • Git/GitHub
+
+## Contact
+- 📍 Rome, Italy  
+- 📧 berketayfunakseki@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/berke-tayfun-akseki-489b842ba/
